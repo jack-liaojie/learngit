@@ -10,5 +10,9 @@
 10.git reset --hard 7ac8用于恢复到指定版本
 11.git checkout 恢复到提交前一版本
 
+1.复制本地ssh公钥到GitHub上
+2.建立远程仓库
+3.提交本地仓库到远程仓库
+
 
 
