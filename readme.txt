@@ -8,7 +8,7 @@
 8.git reflog可以查看所有版本的id，以便于未来版本的恢复。
 9.git reset --hard HEAD^命令用于恢复上一版本
 10.git reset --hard 7ac8用于恢复到指定版本
-
+11.git checkout 恢复到提交前一版本
 
 
 
